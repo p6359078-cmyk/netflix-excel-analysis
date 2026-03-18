@@ -38,8 +38,19 @@ International Drama is the most common genre.
 
 ---
 
- 📈 Visuals
-(Screenshots included in repository)
+ 📈 Visualizations
+
+ Content Distribution
+![Content Distribution](chart 1.png.png)
+
+ Ratings Analysis
+![Ratings](chart 2.png.png)
+
+ Country Analysis
+![Country](chart 3.png.png)
+
+ Additional Insight
+![Insight](chart 4.png.png)
 
 ---
 
